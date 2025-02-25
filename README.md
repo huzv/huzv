@@ -5,7 +5,8 @@ Welcome to my GitHub profile — I'm a passionate student at **Birzeit Universit
 ---
 
 ## 💻 Languages & Tools  
-I enjoy working with a diverse range of programming languages and tools. Here are a few that I frequently use:  
+I enjoy working with a diverse range of programming languages and tools. Here are a few that I frequently use:
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 
 [![C](https://img.shields.io/badge/C-23703F?style=flat&logo=c&logoColor=white)](https://iso.org/standard/74145.html)
@@ -25,13 +26,13 @@ Here's a glimpse into my GitHub journey:
 
 ---
 
-## 🌟 Current Endeavors
+## 🌟 My Journey
 
-- **Innovative Projects:** Experimenting with new ideas and pushing the boundaries of what's possible.
-- **Collaborative Work:** Embracing open-source to learn, grow, and build impactful projects together.
-- **Personal Ventures:** Crafting projects that ignite my passion and drive creative solutions.
+- **Learning & Growing:** Focused on building my skills and deepening my understanding of programming.
+- **Student Life:** Balancing academic life at Birzeit University with my passion for tech.
+- **Future Projects:** I might not have projects yet, but I'm excited about the ideas and challenges ahead.
 
-> **"Every challenge is a chance to learn something new."**
+> **"Every challenge is an opportunity to learn and grow."**
 
 ---
 
@@ -46,7 +47,7 @@ When I'm not immersed in code, you might find me:
 
 ## 🤝 Connect with Me
 
-I love connecting with fellow creators and innovators (Reach out and say hello!):
+I love connecting with fellow learners and tech enthusiasts. Feel free to reach out:
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/ihuzv)  
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-informational?style=flat&logo=gmail)](mailto:avgdevv@gmail.com)
