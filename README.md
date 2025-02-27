@@ -9,7 +9,7 @@ I enjoy working with a diverse range of programming languages and tools. Here ar
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 
-[![C](https://img.shields.io/badge/C-23703F?style=flat&logo=c&logoColor=white)](https://iso.org/standard/74145.html)
+[![C](https://img.shields.io/badge/C-23703F?style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
 
 [![Java](https://img.shields.io/badge/Java-E38725?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)  
 
