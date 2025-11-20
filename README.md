@@ -19,9 +19,6 @@ I enjoy working with a diverse range of programming languages and tools. Here ar
 
 ## 📊 GitHub Stats
 
-Here's a glimpse into my GitHub journey:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzv&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzv&layout=compact&theme=radical)
 
 ---
@@ -49,7 +46,7 @@ When I'm not immersed in code, you might find me:
 
 I love connecting with fellow learners and tech enthusiasts. Feel free to reach out:
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/ihuzv)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/fynzu)  
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-informational?style=flat&logo=gmail)](mailto:avgdevv@gmail.com)
 
 ---
