@@ -46,7 +46,7 @@ When I'm not immersed in code, you might find me:
 
 I love connecting with fellow learners and tech enthusiasts. Feel free to reach out:
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/fynzu)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/fynzoh)  
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-informational?style=flat&logo=gmail)](mailto:avgdevv@gmail.com)
 
 ---
